@@ -1,0 +1,16 @@
+{
+  "name": "biggest-project",
+  "version": "1.0.0",
+  "description": "this is my first biggest project in backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "firstproject"
+  ],
+  "author": "Tejas Wadpillewar",
+  "license": "ISC"
+}
